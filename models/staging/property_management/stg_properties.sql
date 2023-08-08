@@ -10,4 +10,4 @@ select
     CITY,
     ADDRESS
 
- from {{ source('property_management','properties')}}
+ from {{ source('property_manage ment','properties')}}
